@@ -32,6 +32,16 @@ Postman API calls -
 ![image](https://github.com/user-attachments/assets/508946d8-43a2-4799-afec-2b92b2dd6572)
 
 
+Recommendation criteria based on age and high spending habits - 
+![image](https://github.com/user-attachments/assets/391f0f7f-2fca-4f41-9bbf-29190908ecbb)
+
+Age of customer 3 is 45 and spending habit is luxury based on which the system suggests a recurring deposit or salary booster plan. Offer a goal-based savings plan with auto-debit. Recommend a zero-balance mobile-only savings account.
+![image](https://github.com/user-attachments/assets/9439ef35-1164-42b4-b04a-e699101b872b)
+
+whereas the age of customer 4 is 25 and spending habit is Budget based on which the system suggests a premium credit card with high reward limits
+![image](https://github.com/user-attachments/assets/c8fea901-8887-4fbe-bda8-2229212e8e35)
+
+
 
 ## 💡 Inspiration
 In the era of hyper-personalization, users expect financial services tailored to their specific behaviors, needs, and lifestyles. This project was inspired by the growing demand for AI-driven financial advisory tools that not only recommend products but also optimize user engagement and service delivery. We wanted to build a solution that understands each customer like a human advisor would—learning from their actions and adapting in real time.
