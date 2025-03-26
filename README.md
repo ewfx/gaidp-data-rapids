@@ -41,6 +41,8 @@ Age of customer 3 is 45 and spending habit is luxury based on which the system s
 whereas the age of customer 4 is 25 and spending habit is Budget based on which the system suggests a premium credit card with high reward limits
 ![image](https://github.com/user-attachments/assets/c8fea901-8887-4fbe-bda8-2229212e8e35)
 
+After training models, customers are divided into clusters based on age, spending habits, sentiment labels, etc. Below shown is an example of cluster
+![image](https://github.com/user-attachments/assets/4447dd7b-a36a-4c56-ab35-bca6dd8a9292)
 
 
 ## 💡 Inspiration
