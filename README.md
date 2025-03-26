@@ -19,8 +19,7 @@ Modern customers expect highly personalized experiences that cater to their uniq
 ## 🎥 Demo
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
-![image](https://github.com/user-attachments/assets/b7b7cf9e-5f69-4763-897f-bfa4306fcc4f)
+![Screenshot 1](https://github.com/user-attachments/assets/b7b7cf9e-5f69-4763-897f-bfa4306fcc4f)
 Postman API calls -
 ![image](https://github.com/user-attachments/assets/508946d8-43a2-4799-afec-2b92b2dd6572)
 
