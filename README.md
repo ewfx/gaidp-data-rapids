@@ -22,6 +22,8 @@ Modern customers expect highly personalized experiences that cater to their uniq
 ![Screenshot 1](https://github.com/user-attachments/assets/b7b7cf9e-5f69-4763-897f-bfa4306fcc4f)
 Postman API calls -
 ![image](https://github.com/user-attachments/assets/508946d8-43a2-4799-afec-2b92b2dd6572)
+Recommendation criteria based on sentiment score and risk profile - 
+![image](https://github.com/user-attachments/assets/2d8f5221-7940-47cc-9918-4439ca5e1ae0)
 
 
 ## 💡 Inspiration
