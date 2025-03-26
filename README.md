@@ -17,6 +17,8 @@
 Modern customers expect highly personalized experiences that cater to their unique preferences. This is a Generative Al-driven solution that enhances hyper-personalization by analyzing customer profiles, social media activity, purchase history, sentiment data, and demographic details. According to the challenge we have to design a system that generates personalized recommendations for products, services, or content while also providing actionable insights for businesses to optimize customer engagement.
 
 ## 🎥 Demo
+🔗 Video Demo - https://drive.google.com/file/d/1fkxd-i-YfjFwfE6OVAgW1EBG11Z1_fQb/view
+
 🖼️ Screenshots:
 
 Recommendation criteria based on sentiment score and risk profile - 
