@@ -22,6 +22,8 @@ A brief overview of your project and its purpose. Mention which problem statemen
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
+![image](https://github.com/user-attachments/assets/b7b7cf9e-5f69-4763-897f-bfa4306fcc4f)
+
 
 ## 💡 Inspiration
 In the era of hyper-personalization, users expect financial services tailored to their specific behaviors, needs, and lifestyles. This project was inspired by the growing demand for AI-driven financial advisory tools that not only recommend products but also optimize user engagement and service delivery. We wanted to build a solution that understands each customer like a human advisor would—learning from their actions and adapting in real time.
