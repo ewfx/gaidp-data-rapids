@@ -1,0 +1,101 @@
+Customer_ID,Enquiry_Date,Product_Type,Enquiry_Amount,Status
+1,2025-02-28,Investment Account,51996,Rejected
+2,2025-02-18,Auto Loan,23005,Approved
+3,2025-03-23,Credit Card,30814,Approved
+4,2025-02-27,Personal Loan,16376,Approved
+5,2025-03-08,Credit Card,63361,Approved
+6,2025-02-18,Mortgage,33569,Rejected
+7,2025-03-07,Credit Card,38855,Rejected
+8,2025-01-23,Auto Loan,42995,Rejected
+9,2025-01-28,Credit Card,24985,Rejected
+10,2025-03-16,Credit Card,6975,Rejected
+11,2025-02-26,Mortgage,9564,Rejected
+12,2025-01-31,Investment Account,84853,Rejected
+13,2025-01-26,Personal Loan,40648,Approved
+14,2025-02-28,Credit Card,40334,Rejected
+15,2025-02-22,Mortgage,16811,Approved
+16,2025-03-03,Auto Loan,37759,Approved
+17,2025-01-31,Personal Loan,60584,Rejected
+18,2025-01-19,Credit Card,67358,Rejected
+19,2025-03-06,Personal Loan,40768,Rejected
+20,2025-01-06,Investment Account,56240,Rejected
+21,2025-02-18,Personal Loan,19908,Approved
+22,2025-03-11,Mortgage,61804,Approved
+23,2025-02-19,Investment Account,18878,Rejected
+24,2025-01-01,Investment Account,48790,Rejected
+25,2025-02-13,Investment Account,10520,Rejected
+26,2025-01-18,Mortgage,24808,Rejected
+27,2025-01-22,Mortgage,91202,Approved
+28,2025-01-22,Mortgage,41772,Approved
+29,2025-03-23,Auto Loan,35308,Approved
+30,2025-01-05,Mortgage,55516,Approved
+31,2025-02-06,Mortgage,12914,Approved
+32,2025-01-12,Personal Loan,96340,Approved
+33,2025-01-03,Personal Loan,8004,Rejected
+34,2025-02-17,Auto Loan,69788,Rejected
+35,2025-03-19,Credit Card,55073,Rejected
+36,2025-02-24,Mortgage,89998,Approved
+37,2025-01-23,Credit Card,87274,Approved
+38,2025-02-17,Mortgage,26180,Rejected
+39,2025-03-20,Mortgage,47529,Rejected
+40,2025-03-04,Investment Account,37395,Rejected
+41,2024-12-30,Auto Loan,70222,Approved
+42,2025-03-16,Auto Loan,24481,Rejected
+43,2025-02-26,Mortgage,8493,Rejected
+44,2025-01-29,Credit Card,38403,Approved
+45,2025-02-23,Mortgage,42364,Rejected
+46,2025-03-09,Auto Loan,83584,Rejected
+47,2025-03-16,Auto Loan,86840,Approved
+48,2025-02-22,Personal Loan,17563,Approved
+49,2025-01-26,Mortgage,6093,Approved
+50,2025-02-11,Personal Loan,46454,Approved
+51,2025-01-17,Auto Loan,18535,Rejected
+52,2025-03-10,Investment Account,8113,Rejected
+53,2025-01-07,Investment Account,22525,Rejected
+54,2025-02-23,Investment Account,30240,Approved
+55,2025-03-21,Credit Card,8427,Approved
+56,2025-01-16,Personal Loan,28405,Rejected
+57,2025-02-07,Investment Account,31029,Approved
+58,2025-03-04,Personal Loan,65246,Approved
+59,2025-02-06,Mortgage,43274,Approved
+60,2025-03-03,Mortgage,53392,Approved
+61,2025-03-19,Mortgage,73788,Approved
+62,2025-02-27,Personal Loan,7799,Rejected
+63,2025-03-14,Personal Loan,63869,Rejected
+64,2025-03-20,Credit Card,85013,Rejected
+65,2025-02-11,Investment Account,7529,Rejected
+66,2025-02-16,Auto Loan,11764,Approved
+67,2025-03-07,Auto Loan,52848,Approved
+68,2025-02-12,Investment Account,10093,Rejected
+69,2025-03-16,Credit Card,51995,Approved
+70,2025-02-04,Investment Account,95467,Rejected
+71,2025-01-23,Credit Card,40773,Approved
+72,2025-03-14,Personal Loan,37239,Rejected
+73,2025-02-01,Investment Account,70286,Approved
+74,2025-03-11,Personal Loan,86386,Approved
+75,2025-03-04,Personal Loan,57787,Rejected
+76,2025-03-05,Auto Loan,69671,Rejected
+77,2025-03-11,Auto Loan,34860,Approved
+78,2025-03-11,Investment Account,10320,Approved
+79,2024-12-30,Mortgage,49183,Approved
+80,2024-12-29,Auto Loan,58459,Approved
+81,2024-12-27,Auto Loan,77587,Approved
+82,2025-02-27,Auto Loan,68909,Rejected
+83,2025-02-20,Investment Account,76052,Approved
+84,2025-01-19,Investment Account,43152,Approved
+85,2024-12-29,Credit Card,50406,Rejected
+86,2024-12-27,Mortgage,20433,Approved
+87,2025-01-07,Auto Loan,40158,Rejected
+88,2025-03-05,Mortgage,5131,Approved
+89,2025-02-23,Auto Loan,42762,Approved
+90,2025-02-09,Credit Card,52324,Approved
+91,2025-03-03,Auto Loan,18494,Approved
+92,2025-02-15,Investment Account,99401,Approved
+93,2025-02-22,Investment Account,68882,Approved
+94,2025-03-20,Auto Loan,69639,Approved
+95,2025-03-09,Mortgage,75018,Approved
+96,2025-02-07,Auto Loan,71299,Rejected
+97,2025-02-19,Credit Card,38105,Rejected
+98,2025-02-17,Personal Loan,45908,Rejected
+99,2025-03-24,Investment Account,44674,Approved
+100,2025-03-16,Personal Loan,60279,Approved

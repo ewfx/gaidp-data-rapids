@@ -1,0 +1,101 @@
+Customer_ID,Age,Income,Spending_Habit,Risk_Profile,Transactions,Sentiment_Score,Engagement_Level,Loan_Amount,Credit_Limit,Credit_Utilization,EMI_Paid,Tenure_Months,Max_DPD,Default_Status,Enquiry_Amount,Status,Product_Type,Cluster
+1,28,68948,Moderate,Low,47,0.1,Medium,0,5716,0.31,15,54,65,No Default,51996,Rejected,Investment Account,3
+2,37,99604,Budget,Low,4,0.08,High,19920,16132,0.67,12,44,85,Minor Delay,23005,Approved,Auto Loan,4
+3,41,74532,Luxury,Moderate,6,0.39,Medium,45096,1764,0.12,5,55,22,Major Default,30814,Approved,Credit Card,0
+4,25,90622,Budget,High,49,-0.08,Medium,43300,7599,0.29,24,23,23,Minor Delay,16376,Approved,Personal Loan,1
+5,36,45242,Premium,Moderate,18,-0.55,Medium,39730,12319,0.44,4,40,35,Major Default,63361,Approved,Credit Card,2
+6,22,73237,Moderate,Low,48,-0.89,High,30016,2307,0.27,2,51,48,Minor Delay,33569,Rejected,Mortgage,3
+7,48,56210,Premium,High,10,-0.76,High,46797,6949,0.64,9,57,12,Major Default,38855,Rejected,Credit Card,0
+8,46,64508,Luxury,Low,11,0.04,Medium,34176,11264,0.44,19,12,72,Minor Delay,42995,Rejected,Auto Loan,2
+9,21,74561,Premium,Low,33,-0.93,High,10901,12184,0.11,2,40,50,Minor Delay,24985,Rejected,Credit Card,3
+10,50,108769,Luxury,Low,40,-0.97,High,18846,2812,0.35,22,44,10,No Default,6975,Rejected,Credit Card,3
+11,22,110937,Moderate,Low,31,-0.77,Low,7621,9054,0.19,5,38,25,Minor Delay,9564,Rejected,Mortgage,3
+12,24,48455,Premium,High,36,-0.72,Low,0,16108,0.74,8,52,72,No Default,84853,Rejected,Investment Account,4
+13,28,108240,Moderate,Moderate,18,0.08,High,24791,13032,0.68,5,27,0,Minor Delay,40648,Approved,Personal Loan,2
+14,47,71729,Moderate,Moderate,46,0.28,Medium,31403,5550,0.49,3,31,76,Major Default,40334,Rejected,Credit Card,4
+15,40,72510,Premium,High,46,-0.72,High,15179,8710,0.35,13,45,21,No Default,16811,Approved,Mortgage,3
+16,48,105755,Budget,Low,34,0.04,Medium,6163,17822,0.6,8,21,46,Minor Delay,37759,Approved,Auto Loan,2
+17,43,38674,Budget,High,25,0.79,High,6518,11368,0.54,22,46,13,Minor Delay,60584,Rejected,Personal Loan,1
+18,65,69051,Luxury,Low,25,-0.88,Medium,43731,11040,0.19,5,26,34,Major Default,67358,Rejected,Credit Card,2
+19,68,75999,Budget,Moderate,49,0.07,High,9396,7283,0.57,17,52,8,Major Default,40768,Rejected,Personal Loan,1
+20,56,66821,Luxury,High,32,0.41,Low,0,14398,0.6,19,15,55,Major Default,56240,Rejected,Investment Account,1
+21,45,80062,Luxury,Moderate,33,-0.98,Low,35947,5766,0.2,23,29,2,No Default,19908,Approved,Personal Loan,1
+22,58,61635,Moderate,Moderate,8,-0.43,Medium,20575,9454,0.43,24,48,3,Major Default,61804,Approved,Mortgage,0
+23,50,102943,Luxury,Low,32,0.82,High,0,16283,0.34,10,23,5,No Default,18878,Rejected,Investment Account,1
+24,68,66640,Premium,Moderate,45,0.81,High,0,10224,0.22,6,50,62,Major Default,48790,Rejected,Investment Account,1
+25,48,90206,Budget,Moderate,49,0.78,High,0,6067,0.74,18,26,50,Major Default,10520,Rejected,Investment Account,1
+26,47,67479,Luxury,Moderate,7,0.89,Low,29688,2662,0.48,15,56,3,Minor Delay,24808,Rejected,Mortgage,0
+27,35,53079,Budget,High,35,0.74,Medium,40354,17124,0.61,21,40,74,No Default,91202,Approved,Mortgage,4
+28,30,99496,Premium,Low,6,0.2,High,24127,17528,0.42,7,16,22,Major Default,41772,Approved,Mortgage,2
+29,44,112460,Premium,Moderate,26,-0.5,Low,24436,12666,0.82,1,25,9,Minor Delay,35308,Approved,Auto Loan,2
+30,20,76262,Budget,High,43,-0.38,Low,28735,12053,0.72,5,58,3,Major Default,55516,Approved,Mortgage,3
+31,39,107936,Budget,High,11,0.39,High,6185,16947,0.58,24,21,30,Minor Delay,12914,Approved,Mortgage,1
+32,54,33800,Premium,Low,8,0.19,Low,37545,6445,0.68,17,53,4,Major Default,96340,Approved,Personal Loan,0
+33,48,75310,Luxury,Moderate,6,0.34,Medium,18151,8527,0.81,1,55,90,Minor Delay,8004,Rejected,Personal Loan,4
+34,43,70160,Moderate,Moderate,5,0.22,Medium,22838,13934,0.57,12,28,24,Major Default,69788,Rejected,Auto Loan,2
+35,52,38791,Luxury,High,22,0.09,High,22969,14076,0.44,18,36,7,No Default,55073,Rejected,Credit Card,1
+36,20,91240,Premium,Low,46,-0.63,High,38939,1820,0.79,5,17,53,No Default,89998,Approved,Mortgage,4
+37,54,85185,Premium,Moderate,35,0.18,Medium,21584,14883,0.78,8,53,38,No Default,87274,Approved,Credit Card,4
+38,56,43168,Budget,Moderate,38,-0.6,High,46465,12165,0.52,20,22,1,No Default,26180,Rejected,Mortgage,1
+39,60,54456,Moderate,Low,31,0.7,Low,40464,5440,0.72,4,26,61,No Default,47529,Rejected,Mortgage,4
+40,42,49866,Premium,Low,9,-0.97,High,0,18244,0.55,4,13,50,Minor Delay,37395,Rejected,Investment Account,2
+41,27,116641,Premium,Low,35,0.48,Medium,18071,17887,0.35,17,12,41,No Default,70222,Approved,Auto Loan,2
+42,39,92692,Luxury,High,10,-0.54,High,15029,17690,0.82,20,13,0,Major Default,24481,Rejected,Auto Loan,2
+43,62,111809,Budget,High,50,-0.13,Low,24552,11590,0.48,14,12,57,Major Default,8493,Rejected,Mortgage,1
+44,38,88577,Luxury,Moderate,41,0.8,Low,46871,14806,0.65,23,19,22,Major Default,38403,Approved,Credit Card,1
+45,39,84686,Premium,High,13,-0.78,High,38079,13709,0.28,14,48,71,Minor Delay,42364,Rejected,Mortgage,3
+46,53,110265,Budget,Low,42,0.51,Low,8975,2799,0.59,4,60,36,Major Default,83584,Rejected,Auto Loan,0
+47,45,99849,Moderate,High,4,-0.52,Medium,13682,3168,0.22,17,43,7,No Default,86840,Approved,Auto Loan,0
+48,60,49337,Luxury,Moderate,32,0.71,High,37879,8338,0.38,13,21,33,Minor Delay,17563,Approved,Personal Loan,1
+49,25,73291,Luxury,Low,19,-0.36,Medium,6003,1642,0.54,20,17,35,No Default,6093,Approved,Mortgage,3
+50,20,40771,Premium,High,18,-0.16,Low,48026,19635,0.86,17,60,80,Minor Delay,46454,Approved,Personal Loan,4
+51,31,56860,Luxury,Moderate,23,-0.06,Low,29025,17311,0.23,10,14,72,Minor Delay,18535,Rejected,Auto Loan,2
+52,24,95739,Moderate,Low,8,-1.0,High,0,18663,0.4,11,60,25,No Default,8113,Rejected,Investment Account,3
+53,57,61925,Premium,High,37,-0.17,High,0,8496,0.68,16,12,51,No Default,22525,Rejected,Investment Account,1
+54,62,53893,Moderate,Low,34,-0.69,High,0,1711,0.45,14,58,11,No Default,30240,Approved,Investment Account,0
+55,62,83369,Budget,Moderate,24,-0.62,Medium,19493,19369,0.11,13,34,3,Major Default,8427,Approved,Credit Card,1
+56,39,41069,Budget,High,43,0.2,High,29497,3404,0.31,8,59,0,Minor Delay,28405,Rejected,Personal Loan,0
+57,44,107482,Premium,High,5,0.11,Low,0,6340,0.49,22,27,7,No Default,31029,Approved,Investment Account,0
+58,25,64151,Luxury,Low,38,0.13,Medium,16808,11338,0.31,19,15,46,Major Default,65246,Approved,Personal Loan,2
+59,40,94842,Budget,High,21,-0.77,Medium,46457,5197,0.33,16,55,73,Major Default,43274,Approved,Mortgage,3
+60,22,32780,Premium,Moderate,5,-0.78,Medium,34279,14693,0.36,19,25,8,Major Default,53392,Approved,Mortgage,2
+61,27,104544,Luxury,Low,34,-0.06,Medium,33610,2055,0.74,18,52,52,Minor Delay,73788,Approved,Mortgage,4
+62,50,35064,Moderate,High,22,-0.11,Medium,48374,8609,0.3,7,42,1,Minor Delay,7799,Rejected,Personal Loan,0
+63,47,104124,Moderate,High,20,0.07,Low,47763,15761,0.5,9,29,89,Minor Delay,63869,Rejected,Personal Loan,4
+64,27,68250,Moderate,Low,37,-0.01,Low,27592,4737,0.15,14,13,47,Minor Delay,85013,Rejected,Credit Card,2
+65,47,92572,Budget,Low,42,-0.54,Medium,0,12128,0.68,20,35,47,Major Default,7529,Rejected,Investment Account,1
+66,48,92341,Budget,Low,13,-0.09,High,22261,15472,0.67,5,36,59,Minor Delay,11764,Approved,Auto Loan,4
+67,27,109973,Luxury,Moderate,38,-0.42,Low,40225,9068,0.21,22,44,60,No Default,52848,Approved,Auto Loan,3
+68,35,61881,Moderate,Low,14,-0.24,Medium,0,14735,0.71,5,57,57,Minor Delay,10093,Rejected,Investment Account,3
+69,60,77632,Luxury,Moderate,29,-0.14,Medium,26586,18716,0.53,12,34,78,Minor Delay,51995,Approved,Credit Card,4
+70,24,39313,Moderate,High,45,0.25,Medium,0,5363,0.48,9,37,62,Minor Delay,95467,Rejected,Investment Account,4
+71,57,87946,Premium,Low,20,0.49,Low,13465,1809,0.81,23,60,63,Minor Delay,40773,Approved,Credit Card,0
+72,70,81898,Premium,High,4,-0.19,Medium,18931,1368,0.72,3,39,41,Major Default,37239,Rejected,Personal Loan,0
+73,68,44267,Moderate,Moderate,3,-0.65,High,0,1371,0.72,12,46,63,Major Default,70286,Approved,Investment Account,0
+74,33,113357,Premium,High,6,0.87,High,10316,6414,0.57,7,50,5,Minor Delay,86386,Approved,Personal Loan,0
+75,62,107336,Moderate,Low,19,-0.79,High,41557,3453,0.4,17,35,63,No Default,57787,Rejected,Personal Loan,0
+76,29,31334,Premium,Low,14,0.85,Low,19047,5932,0.25,8,16,10,Major Default,69671,Rejected,Auto Loan,2
+77,57,41762,Premium,Moderate,28,0.2,High,49980,3913,0.5,20,30,75,No Default,34860,Approved,Auto Loan,1
+78,55,32775,Premium,High,27,-0.0,Medium,0,19222,0.67,21,43,30,Major Default,10320,Approved,Investment Account,1
+79,69,51350,Luxury,Low,33,-0.15,High,43454,19880,0.15,19,34,27,Major Default,49183,Approved,Mortgage,1
+80,48,30178,Premium,Moderate,2,-0.94,High,33695,6319,0.69,15,18,9,No Default,58459,Approved,Auto Loan,2
+81,54,99184,Budget,Moderate,11,0.72,Medium,14504,17761,0.66,1,19,67,No Default,77587,Approved,Auto Loan,4
+82,70,107239,Moderate,High,32,0.91,High,28839,3564,0.76,20,60,23,No Default,68909,Rejected,Auto Loan,0
+83,35,68800,Luxury,High,2,-0.4,Low,0,6222,0.12,9,15,32,Major Default,76052,Approved,Investment Account,2
+84,42,77881,Budget,Low,22,-0.12,Medium,0,17631,0.49,9,29,44,Minor Delay,43152,Approved,Investment Account,2
+85,32,37624,Premium,Low,34,-0.51,Medium,19792,3192,0.41,12,55,72,No Default,50406,Rejected,Credit Card,3
+86,50,53049,Budget,Moderate,41,0.03,Medium,15759,8338,0.66,11,51,48,Major Default,20433,Approved,Mortgage,1
+87,51,47829,Premium,Moderate,12,-0.91,High,11012,4541,0.6,6,48,84,Minor Delay,40158,Rejected,Auto Loan,4
+88,70,81118,Luxury,High,30,-0.56,Low,17347,8119,0.54,18,12,1,Major Default,5131,Approved,Mortgage,1
+89,59,88366,Moderate,Low,49,-0.25,High,13582,5226,0.77,21,54,50,No Default,42762,Approved,Auto Loan,1
+90,50,66676,Moderate,High,7,0.41,Low,15299,11552,0.26,20,47,66,No Default,52324,Approved,Credit Card,0
+91,37,76003,Premium,Moderate,6,-0.38,High,43656,17920,0.14,14,23,67,No Default,18494,Approved,Auto Loan,2
+92,57,61525,Luxury,Low,17,0.48,Low,0,14560,0.77,11,31,88,Minor Delay,99401,Approved,Investment Account,4
+93,28,103244,Premium,High,21,0.22,High,0,1261,0.56,5,16,1,Minor Delay,68882,Approved,Investment Account,0
+94,43,55440,Budget,High,42,0.02,High,11941,13154,0.73,8,19,58,Major Default,69639,Approved,Auto Loan,4
+95,25,43321,Luxury,Moderate,35,-0.08,Medium,47129,14867,0.67,8,21,4,Minor Delay,75018,Approved,Mortgage,2
+96,30,81101,Premium,Low,41,-0.51,Medium,30997,4616,0.62,13,14,7,No Default,71299,Rejected,Auto Loan,2
+97,25,55068,Moderate,Moderate,29,-0.9,High,39006,13199,0.23,18,47,63,Major Default,38105,Rejected,Credit Card,3
+98,40,54409,Luxury,High,14,0.65,Medium,21219,15287,0.29,5,28,17,No Default,45908,Rejected,Personal Loan,2
+99,20,118316,Moderate,Moderate,13,-0.91,High,0,3039,0.41,24,39,15,Major Default,44674,Approved,Investment Account,3
+100,34,30899,Budget,High,40,0.61,Low,30393,9105,0.46,4,55,83,No Default,60279,Approved,Personal Loan,4
