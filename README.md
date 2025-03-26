@@ -20,6 +20,7 @@ Modern customers expect highly personalized experiences that cater to their uniq
 🖼️ Screenshots:
 Recommendation criteria based on sentiment score and risk profile - 
 ![image](https://github.com/user-attachments/assets/2d8f5221-7940-47cc-9918-4439ca5e1ae0)
+
 Customer 1 has moderate risk profile and sentiment score is low(0.1) based on which 5% cashback is offered.
 ![Screenshot 1](https://github.com/user-attachments/assets/b7b7cf9e-5f69-4763-897f-bfa4306fcc4f)
 Postman API calls -
