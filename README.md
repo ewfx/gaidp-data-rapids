@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Modern customers expect highly personalized experiences that cater to their unique preferences. This is a Generative Al-driven solution that enhances hyper-personalization by analyzing customer profiles, social media activity, purchase history, sentiment data, and demographic details. According to the challenge we have to design a system that generates personalized recommendations for products, services, or content while also providing actionable insights for businesses to optimize customer engagement.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
